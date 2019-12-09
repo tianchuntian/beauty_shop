@@ -1,0 +1,1034 @@
+1572429971388	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileNvFhET"
+1572429973144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572429973144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572429973145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572429973145	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572429976307	Marionette	INFO	Listening on port 58817
+1572429976490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Parent 4500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[n.cc, line 341C
+hild 20408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 5392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1572430073464	Marionette	INFO	Stopped listening on port 58817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3332, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+port 59032
+1572430071895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 11068, Chrome_ChildThread] WARN[ING: piChild 20692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/pchrome/common/ipc_channel_win.cc, line 341
+e e[Crror: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 19504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1572430160971	Marionette	INFO	Stopped listening on port 59032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1490
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572430228466	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileay4Gfc"
+1572430229579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572430229580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572430229580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572430229580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572430232354	Marionette	INFO	Listening on port 59328
+1572430232837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Parent 18932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[
+Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1572430288796	Marionette	INFO	Stopped listening on port 59328
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13872, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572430376453	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileUrbinQ"
+1572430377460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572430377461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572430377461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572430377461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572430381407	Marionette	INFO	Listening on port 59593
+1572430381435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 22436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Ckh_157i1ld 21368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/2s40440/build/src/ipc/chromium/src/chrome/common/ipc_rcc/ipc/chromium/src/chrome/channel_win.cc, line 341ommon/ipc_channel_win.cc, line 341
+
+[Ch[Chil1572430609048	Marionette	INFO	Stopped listening on port 59593
+[GPU 12508, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572430745668	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileh5J7Kp"
+1572430746839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572430746839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572430746839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572430746840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572430751238	Marionette	INFO	Listening on port 60205
+1572430751320	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChildJavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 10960, Chrome_ChildThread] WARNING: pipe error: 10[9[Child 15688, Chrome_C: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_Chwhild 11ildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chi8romium/src/chn.cc, line 3412rome/common/ipc_channel_win.cc, line 341
+
+4, Chrome_Child[ChiThread] [Child 3160, Chrome_ChilWdThread] WARNING: pipe error: 109: file z:/task_1571ARNING: pipe error: 1092:4 file z:/task_10571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_w4i4n0/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc.,cc,  line 341l
+ine 341[C
+[C1572430804768	Marionette	INFO	Stopped listening on port 60205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7304, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572431048729	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilemrVnFc"
+1572431049794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572431049795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572431049795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572431049796	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572431053535	Marionette	INFO	Listening on port 60675
+1572431053694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Parent 18924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chro[mium/srC[Childhild 21800, Chrome_ChildThread] WARNI cNG: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome//common/ipc_channel_w17200, Chrome_ChildThread] WARNING: pipe cierrhnor: 109: file z:/t.rask_1571240440/build/src/coipc/ccmhr,eomium/src/chrome/commo/ ncommon/l/iine 341pc_channel_wipc_channel_win.i
+cc, line 341[Ch
+n.cc, line 341
+[[Parent 18924, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1572431111711	Marionette	INFO	Stopped listening on port 60675
+[GPU 22872, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572431678914	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileYBkq2R"
+1572431686182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572431686182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572431686183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572431686183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572431699110	Marionette	INFO	Listening on port 61616
+1572431699532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 12348, Chrome_ChildThread] WARN[Parent 22968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10588, Chrome_ChildThread] WARNING: [Child 1214[0pC, Chrome_ChihildThpe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341ri
+ead] [CWARNING: pipe error: 109: fille z:/d 1t795a2, Chrome_ChildThread] WARNING: pispk_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341e
+ error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1572432118373	Marionette	INFO	Stopped listening on port 61616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572435002467	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileveDF7X"
+1572435004089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572435004089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572435004089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572435004089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572435007853	Marionette	INFO	Listening on port 49828
+1572435008008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+[Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 1688, Chrome_ChildThread][Parent 22300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341 
+WARNING[Child 17308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572435481798	Marionette	INFO	Stopped listening on port 49828
+[GPU 964, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+icate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 18728, Chrome_ChildTh[read] WARNING: pipeC error: 109:h file z:/task_1571240440/buiilld 23d/src/ipc5/2,c Chrohromium/mserc/c_Chrome/common/ipc_channel_win.cc, line 341
+[ChilhildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1572435189228	Marionette	INFO	Stopped listening on port 50095
+[GPU 23112, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572435327195	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1UVu6S"
+1572435328194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572435328195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572435328195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572435328195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572435330987	Marionette	INFO	Listening on port 50547
+1572435331071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 10980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chro[mChild 5948, Chrome_ChildThreadi] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341u
+m/src[/chrome/common/ipc_channel_win.cc, line 341
+[Child1572435449992	Marionette	INFO	Stopped listening on port 50547
+[GPU 21624, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572450476778	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileeq8HW6"
+1572450478919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572450478919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572450478919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572450478919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572450482005	Marionette	INFO	Listening on port 58070
+1572450482377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572450517492	Marionette	INFO	Stopped listening on port 58070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572450621599	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileHii2oR"
+1572450622707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572450622707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572450622707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572450622707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572450625667	Marionette	INFO	Listening on port 58138
+1572450625962	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15712[40440/build/src/ipc/chromiChild 12480, Chrome_ChuildThread] WARNING: mp/sipe error: 109: file z:/task_1571240440/build/src/irpc/chrome/common/ipc_channel_win.cc, line 341c
+/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 22004, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1572450711841	Marionette	INFO	Stopped listening on port 58138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9420, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572450999038	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileD8Va2h"
+1572451000887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572451000887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572451000887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572451000888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572451003564	Marionette	INFO	Listening on port 58247
+1572451004012	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x37010E,name=PContent::Msg_ReportContentBlockingLog) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x370124,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+lid extension permission: mozillaAddons
+1572452486893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572452486893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572452486893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572452490038	Marionette	INFO	Listening on port 58665
+1572452490329	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2808, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1572452697468	Marionette	INFO	Stopped listening on port 58665
+[GPU 20048, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572452915258	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileTQoLkC"
+1572452917334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572452917335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572452917335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572452917335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572452920504	Marionette	INFO	Listening on port 58847
+1572452920734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572452967441	Marionette	INFO	Stopped listening on port 58847
+[Parent 24508, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[GPU 23
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572456426687	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile34FuTd"
+1572456430517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572456430517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572456430517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572456430517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572456434124	Marionette	INFO	Listening on port 62803
+1572456434489	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23916, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23916, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4600, Chrome_ChildThread] WA[Child 19980, Chrome_ChildThread] WARNRINNINGG: : pipe error: 109: file z:/task_1571240440/builpd/src/ipc/chromium/src/chrome/common/ipc_channeli_win.cc, line 341p
+e error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch1572456505351	Marionette	INFO	Stopped listening on port 62803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17424, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572457470508	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilen2KHg5"
+1572457472397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572457472397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572457472398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572457472398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572457475905	Marionette	INFO	Listening on port 63962
+1572457475989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 9436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1572459544522	Marionette	INFO	Stopped listening on port 63962
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 24356, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572488152420	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilezMxZIz"
+1572488160412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572488160412	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572488160413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572488160413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572488167783	Marionette	INFO	Listening on port 57581
+1572488168191	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11508, Chrome_ChildThr[ead] WChild 6128, Chrome_ChildTAhread] WARNING: pipe error: 109: file z:/task_1571240440/buRiNld/src/ipc/chrING: pipe error: 109: file z:/task_1571240440/build/src/ipc/cohromium/src/chrome/common/ipc_channmeilum/src/chrome/common/ipc_channel_win.cc_,win.cc, line 341 line 341
+
+[Chil[C[Parent 25112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1572488175238	Marionette	INFO	Stopped listening on port 57581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23820, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572488234350	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilekOVS2P"
+1572488235417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572488235417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572488235418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572488235418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572488238669	Marionette	INFO	Listening on port 57781
+1572488238781	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 8816, Gecko_IOThread] WARNING: file z:/task_1571240440/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 20568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1572488245903	Marionette	INFO	Stopped listening on port 57781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572488282940	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileAzNZMt"
+1572488283992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572488283992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572488283992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572488283992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572488286741	Marionette	INFO	Listening on port 57896
+1572488286804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572488335779	Marionette	INFO	Stopped listening on port 57896
+[Child 22860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[[GPU 948, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572488956983	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileRzV0pY"
+1572488958346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572488958347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572488958347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572488958347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572488961488	Marionette	INFO	Listening on port 59003
+1572488961510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572489016272	Marionette	INFO	Stopped listening on port 59003
+[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 83[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [GPU 16548, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572490625487	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile8SbuQx"
+1572490627433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572490627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572490627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572490627434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572490630502	Marionette	INFO	Listening on port 61669
+1572490630529	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Chil[Child 22332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1572490632949	Marionette	INFO	Stopped listening on port 61669
+[GPU 24356, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572490660333	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilenVtJiG"
+1572490661594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572490661594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572490661595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572490661595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572490664727	Marionette	INFO	Listening on port 61764
+1572490664811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572490724786	Marionette	INFO	Stopped listening on port 61764
+[Child 21272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 191
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572491114916	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileoSX1ps"
+1572491116155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572491116155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572491116156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572491116156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572491119270	Marionette	INFO	Listening on port 62615
+1572491119284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572491177270	Marionette	INFO	Stopped listening on port 62615
+[Child 22372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22372, C[Child 18476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[GPU 15096, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572491327651	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileugjIt3"
+1572491328932	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572491328933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572491328933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572491328933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572491331761	Marionette	INFO	Listening on port 63030
+1572491332070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572491390042	Marionette	INFO	Stopped listening on port 63030
+[Child 24056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Child 24536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24536,[GPU 23720, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572491438247	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileegWZKV"
+1572491439504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572491439505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572491439505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572491439505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572491442466	Marionette	INFO	Listening on port 63281
+1572491442609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Parent 13692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/[Child 13528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 13692, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11572491516811	Marionette	INFO	Stopped listening on port 63281
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16312, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572491660879	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile9e6aYx"
+1572491661915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572491661916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572491661916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572491661916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572491664719	Marionette	INFO	Listening on port 63705
+1572491664748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572491722957	Marionette	INFO	Stopped listening on port 63705
+[Child 24432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 16000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Child 15504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 1573
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572491936010	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilevxVDQX"
+1572491943045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572491943046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572491943046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572491943046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572491954880	Marionette	INFO	Listening on port 64233
+1572491955037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+[Parent 12132, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22772, Chrome_ChildThread] WARNING: pipe error:[Child 10248, Chrome_Ch1572499208106	Marionette	INFO	Stopped listening on port 64233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572492165098	Marionette	INFO	Listening on port 64744
+1572492165597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572492225022	Marionette	INFO	Stopped listening on port 64744
+[Parent 14436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[GPU 23680, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572492697417	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLM1H5H"
+1572492698829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572492698830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572492698830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572492698830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572492701906	Marionette	INFO	Listening on port 49494
+1572492702391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572492762403	Marionette	INFO	Stopped listening on port 49494
+[Parent 22040, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12556, Chrome_ChildTh[GPU 21108, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572493786365	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilekuXA6k"
+1572493787801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572493787802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572493787802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572493787802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572493790771	Marionette	INFO	Listening on port 51920
+1572493790787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 20996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[Child 17280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1572494048048	Marionette	INFO	Stopped listening on port 51920
+[GPU 25364, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572494383867	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileKJIjZN"
+1572494385020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572494385021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572494385021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572494385021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572494388586	Marionette	INFO	Listening on port 53248
+1572494388828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572494454268	Marionette	INFO	Stopped listening on port 53248
+[Child 12104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[C[GPU 16740, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572501562588	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileiLcZH6"
+1572501570985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572501570986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572501570986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572501570987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572501580856	Marionette	INFO	Listening on port 59508
+1572501581019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572501651156	Marionette	INFO	Stopped listening on port 59508
+[Child 10900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15484, Chrome_ChildThread] WARNING: pipe error: 109: f[[GPU 19844, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572501974972	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilefLuUpB"
+1572501976477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572501976478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572501976478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572501976478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572501980524	Marionette	INFO	Listening on port 60320
+1572501980623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572502050526	Marionette	INFO	Stopped listening on port 60320
+[Child 21744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/i[Child 2516, Chrompec/chromium/s_rc/chCrome/common/ipc_channel_win.cc, line 341h
+ildThre[Chilad] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 22416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[GPU 1912
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572502686976	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileNS5qAw"
+1572502688223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572502688223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572502688224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572502688224	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572502691585	Marionette	INFO	Listening on port 61625
+1572502692009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572502761628	Marionette	INFO	Stopped listening on port 61625
+[Child 25180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Parent 9560, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3413
+41
+[Child 25180,
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21912,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572503443226	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilepqim9r"
+1572503444670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572503444671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572503444671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572503444671	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572503447588	Marionette	INFO	Listening on port 62926
+1572503447662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572503518182	Marionette	INFO	Stopped listening on port 62926
+[Child 20804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 10612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10[GPU 13456, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572503874166	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileWRhjnc"
+1572503875337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572503875337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572503875338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572503875338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572503878896	Marionette	INFO	Listening on port 63728
+1572503879159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572503950034	Marionette	INFO	Stopped listening on port 63728
+[Child 3324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromi[uChild 14140, Chrome_Chiml/src/chrome/common/ipc_channel_win.cc, line 341d
+Thread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 201
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572504458728	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilejL5zrW"
+1572504459912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572504459913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572504459913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572504459913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572504462886	Marionette	INFO	Listening on port 64759
+1572504463156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572504533839	Marionette	INFO	Stopped listening on port 64759
+[Parent 4636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9336, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572504937780	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile1t90q0"
+1572504939140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572504939140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572504939140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572504939140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572504942465	Marionette	INFO	Listening on port 49322
+1572504942758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572505013737	Marionette	INFO	Stopped listening on port 49322
+[Child 23232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrom[e/common/ipc_channel_win.cc, line 341C
+hild 12868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 9540, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572505078043	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilejL5dFj"
+1572505079354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572505079354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572505079354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572505079354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572505082319	Marionette	INFO	Listening on port 49652
+1572505082543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572505157244	Marionette	INFO	Stopped listening on port 49652
+[Parent 22644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 5320, Chrome_Ch
+ild[Child Thread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5320,[GPU 17880, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572505984284	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile7g2FQ9"
+1572505991718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572505991719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572505991719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572505991719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572506000616	Marionette	INFO	Listening on port 51245
+1572506001091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 14184, Chrome_ChildThread] WARNING: pipe er[Childror:  109: file z:/task_17736, Ch571240440/build/src/ipc/chromium/src/rcome_ChildThreharome/common/ipc_channel_win.cc, line 341d
+] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 1696, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11572506405099	Marionette	INFO	Stopped listening on port 51245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13128, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572506108757	Marionette	INFO	Listening on port 51538
+1572506109225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Parent 17476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[nChild 1044e 3418, Chrome_ChildThread]
+ WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C1572506401582	Marionette	INFO	Stopped listening on port 51538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13920, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572506512664	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile5P6VA7"
+1572506514081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572506514081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572506514081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572506514081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572506517091	Marionette	INFO	Listening on port 52477
+1572506517136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 5308, Chrome_ChildThread] WARNING: pipe error: 109: fi[le zChild 9320, Chrome_ChildT:hread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrom/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cec, line 341/
+common/ipc_channel_win.cc, line 341
+[Child 9[1572507127876	Marionette	INFO	Stopped listening on port 52477
+[GPU 82
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+24, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572506716155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572506719318	Marionette	INFO	Listening on port 52935
+1572506719342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: [file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, liCne 341h
+ild 22760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1572506966806	Marionette	INFO	Stopped listening on port 52935
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12064, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572506841286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572506844517	Marionette	INFO	Listening on port 53275
+1572506844554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572506915842	Marionette	INFO	Stopped listening on port 53275
+[Child 16276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16276, Chrome_[GPU 3968, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572509582003	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileCM9pGj"
+1572509584010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572509584010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572509584010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572509584010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572509587304	Marionette	INFO	Listening on port 58225
+1572509587554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572509664142	Marionette	INFO	Stopped listening on port 58225
+[Parent 9456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 19548, Chrome_ChildThread] WAR
+NING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1[Parent 9456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 17576, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572510391965	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileigDE7B"
+1572510399053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572510399053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572510399054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572510399054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572510402216	Marionette	INFO	Listening on port 59649
+1572510402653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://api.ecshop.com/menu_ext.php?charset=utf-8&lang=zh_cn, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=babda8d9d1c2863bd2b6091fce411881&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://pmp.shopex.cn/index.php?app=ad&ctl=display&act=index&nobar=1&nobtn=1&code=01564ca0eb12162bcb6801ac67c97f07&entid=131110483129&username=&r=1461304885, line 2: SecurityError: Permission denied to get property "href" on cross-origin object
+1572510480312	Marionette	INFO	Stopped listening on port 59649
+[Child 2496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 18672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18672[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1571240440/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572616347051	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile5MKdpB"
+1572616351015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572616351015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572616351015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572616351015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572616355800	Marionette	INFO	Listening on port 59792
+1572616356201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572616437810	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileDb0GDe"
+1572616439495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572616439495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572616439495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572616439495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572616442903	Marionette	INFO	Listening on port 59870
+1572616443282	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12816, Chrome_ChildThrea[Child 25568, Chromed_] WARNING: pipe erroCr: 109: file z:/task_1572402546/build/src/ipc/chromhiuildThread] WARNING: pipe merror/: 109: file z:/task_1572402546/build/src/ipc/chrom1572616690122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572616690122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572616690122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572616690122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572616693081	Marionette	INFO	Listening on port 59992
+1572616693425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572616776677	Marionette	INFO	Stopped listening on port 59992
+[Child 1696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572617219712	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilevDJTLg"
+1572617222250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572617222250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572617222250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572617222250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572617225183	Marionette	INFO	Listening on port 60193
+1572617225284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572617312638	Marionette	INFO	Stopped listening on port 60193
+[Child 18916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 19404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572617385392	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofile6N3rYx"
+1572617386763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572617386764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572617386764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572617386764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572617389810	Marionette	INFO	Listening on port 60325
+1572617389853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572617478942	Marionette	INFO	Stopped listening on port 60325
+[Child 18744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Child 12244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 21272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [GPU 24784, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572617551164	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileFMLzMJ"
+1572617552565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572617552566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572617552566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572617552566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572617555817	Marionette	INFO	Listening on port 60489
+1572617556140	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 22140, Chrome_ChildThread] WARNING: pipe error: 109: file[ z:/task_1572402546/Child 13084, Chrome_ChildThread] WARNING: pipe error:b 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+uild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 221[1572617670320	Marionette	INFO	Stopped listening on port 60489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 24564, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572665311072	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileLVsCLQ"
+1572665313056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572665313056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572665313056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572665313056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572665316292	Marionette	INFO	Listening on port 63722
+1572665316598	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21788, Chrom[Child 22312, Chrome_CehildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341_
+ChildThread] WARNING: pipe error: 1572665452561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org1572665452580	Marionette	INFO	Stopped listening on port 63722
+[GPU 17012
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572665452561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572665452561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572665455617	Marionette	INFO	Listening on port 64012
+1572665455862	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24624, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 10140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10140,1572680583120	Marionette	INFO	Stopped listening on port 64012
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572666942951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572666945709	Marionette	INFO	Listening on port 50329
+1572666945786	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13060, Chrome_ChildThread] WAR[Child 86N20, Chrome_ChildThread] WIARNING: piNpG: pipe error: 109: efile z:/task_1572402546/build/src/ipc/chromium/src/chrome /comerror: 109: file z:/task_1572402546/build/smrc/ipc/chromium/src/chromeo/common/ipc_channenl_win.cc, line 341/
+ipc_channel_win.cc, line 341
+[Ch1572666954814	Marionette	INFO	Stopped listening on port 50329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19336, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1572667334065	mozrunner::runner	INFO	Running command: "D:\\Program Files\\hfix\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileMBRvir"
+1572667335085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1572667335086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1572667335086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1572667335086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1572667337867	Marionette	INFO	Listening on port 51047
+1572667337924	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20[Child 22876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572402546/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 221572680584028	Marionette	INFO	Stopped listening on port 51047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
